@@ -1,0 +1,10 @@
+E:\TAI LIEU MON HOC\Visual C#\Game Co Caro\Game Co Caro\bin\Debug\Game Co Caro.exe.config
+E:\TAI LIEU MON HOC\Visual C#\Game Co Caro\Game Co Caro\bin\Debug\Game Co Caro.exe
+E:\TAI LIEU MON HOC\Visual C#\Game Co Caro\Game Co Caro\bin\Debug\Game Co Caro.pdb
+E:\TAI LIEU MON HOC\Visual C#\Game Co Caro\Game Co Caro\obj\Debug\Game Co Caro.csprojAssemblyReference.cache
+E:\TAI LIEU MON HOC\Visual C#\Game Co Caro\Game Co Caro\obj\Debug\Game_Co_Caro.Form1.resources
+E:\TAI LIEU MON HOC\Visual C#\Game Co Caro\Game Co Caro\obj\Debug\Game_Co_Caro.Properties.Resources.resources
+E:\TAI LIEU MON HOC\Visual C#\Game Co Caro\Game Co Caro\obj\Debug\Game Co Caro.csproj.GenerateResource.cache
+E:\TAI LIEU MON HOC\Visual C#\Game Co Caro\Game Co Caro\obj\Debug\Game Co Caro.csproj.CoreCompileInputs.cache
+E:\TAI LIEU MON HOC\Visual C#\Game Co Caro\Game Co Caro\obj\Debug\Game Co Caro.exe
+E:\TAI LIEU MON HOC\Visual C#\Game Co Caro\Game Co Caro\obj\Debug\Game Co Caro.pdb
